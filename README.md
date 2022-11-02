@@ -20,6 +20,8 @@ N/A
 
 ![e-commence](https://user-images.githubusercontent.com/109003414/199383490-8efe08d4-db21-4676-96e6-55a2d5594860.png)
 
+[Untitled\_ Nov 2, 2022 12_49 PM.webm](https://user-images.githubusercontent.com/109003414/199564180-44cd251c-f37d-491b-b9db-5827e0759266.webm)
+
 ## Usage
 
 To maintain an E-Commerce inventory Database
