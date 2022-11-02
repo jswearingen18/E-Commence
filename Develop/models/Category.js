@@ -1,9 +1,9 @@
 const { Model, DataTypes } = require("sequelize");
-
+// Sets up connection to sequelize 
 const sequelize = require("../config/connection.js");
 
 class Category extends Model {}
-
+// Model framework used in conjunction with category seed to initialize the data
 Category.init(
   {
     id: {
